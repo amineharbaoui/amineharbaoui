@@ -27,16 +27,28 @@
 
 <h2 align="left">Tech Stack</h2>
 <div align="left">
-  <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <a href="https://developer.android.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo" />
+  </a>
+
+  <a href="https://kotlinlang.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/kotlin/7F52FF" height="40" alt="kotlin logo" />
+  </a>
+
+  <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo" />
+  </a>
+
+  <a href="https://gradle.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/gradle/02303A" height="40" alt="gradle logo" />
+  </a>
+
+  <a href="https://docs.github.com/actions" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo" />
+  </a>
+
+  <a href="https://developer.android.com/studio" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo" />
+  </a>
 </div>
 
